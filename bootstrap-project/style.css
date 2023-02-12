@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+nav {
+    width: 100%;
+    font-size: 24px;
+    position: fixed !important;
+    background-color: grey;
+    color: aliceblue;
+}
+.navbar-nav, ms-auto {
+    color: aliceblue;
+}
+.nav-link {
+    font-family: 'Roboto', sans-serif;
+    color: aliceblue;
+}
+section {
+    height: 100vh;
+}
+.red {
+    background-color: red;
+}
+.blue {
+    background-color: blue;
+}
+.green {
+    background-color: green;
+}
+.black {
+    background-color: black;
+}
+.gray {
+    background-color: gray;
+}
